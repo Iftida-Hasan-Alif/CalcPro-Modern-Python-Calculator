@@ -21,7 +21,7 @@ Installation
 
 git clone https://github.com/Iftida-Hasan-Alif/CalcPro-Modern-Python-Calculator.git
 
-cd calcpro
+cd CalcPro-Modern-Python-Calculator
 
 python calculator.py
 
