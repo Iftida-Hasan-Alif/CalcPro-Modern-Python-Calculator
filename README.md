@@ -19,8 +19,10 @@ Features
 
 Installation
 
-git clone https://github.com/yourusername/calcpro.git
+git clone https://github.com/Iftida-Hasan-Alif/CalcPro-Modern-Python-Calculator.git
+
 cd calcpro
+
 python calculator.py
 
 Usage
